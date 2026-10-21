@@ -3,6 +3,9 @@
 *.m~
 *.autosave
 
+# Personal VS Code settings
+/.vscode/
+
 # LaTeX build files
 *.aux
 *.bbl
